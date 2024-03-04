@@ -1,7 +1,7 @@
 ## Olá! Sou o David! 👋 
 
 <p>
-    Trabalho com desenvolvimento Web desde 2018, sou formado em Análise e Desenvolvimento de Sistemas. 
+    Trabalho com desenvolvimento web desde 2018, sou formado em Análise e Desenvolvimento de Sistemas. 
 </p>
 
 ### Habilidades
